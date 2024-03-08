@@ -13,7 +13,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #4f4f4f;
-    background-image: url(/assets/weather.jpg);
+    background-image: url(weather.jpg);
 }
 
 .container{
